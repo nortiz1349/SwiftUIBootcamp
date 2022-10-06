@@ -35,6 +35,12 @@
 		68B1904B28ED69AC00FF726E /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68B1904A28ED69AC00FF726E /* ConditionalBootcamp.swift */; };
 		68B1904D28ED756A00FF726E /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68B1904C28ED756A00FF726E /* TernaryBootcamp.swift */; };
 		68B1904F28EDB73700FF726E /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68B1904E28EDB73700FF726E /* AnimationBootcamp.swift */; };
+		68B1905128EE504200FF726E /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68B1905028EE504200FF726E /* AnimationTimingBootcamp.swift */; };
+		68B1905328EE600D00FF726E /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68B1905228EE600D00FF726E /* TransitionBootcamp.swift */; };
+		68B1905528EE658000FF726E /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68B1905428EE658000FF726E /* SheetsBootcamp.swift */; };
+		68B1905728EE6DD800FF726E /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68B1905628EE6DD800FF726E /* PopoverBootcamp.swift */; };
+		68B1905928EE909100FF726E /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68B1905828EE909100FF726E /* NavigationViewBootcamp.swift */; };
+		68B1905B28EEA10700FF726E /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68B1905A28EEA10700FF726E /* ListBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +73,12 @@
 		68B1904A28ED69AC00FF726E /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
 		68B1904C28ED756A00FF726E /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
 		68B1904E28EDB73700FF726E /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
+		68B1905028EE504200FF726E /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
+		68B1905228EE600D00FF726E /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
+		68B1905428EE658000FF726E /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
+		68B1905628EE6DD800FF726E /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
+		68B1905828EE909100FF726E /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
+		68B1905A28EEA10700FF726E /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +137,12 @@
 				68B1904A28ED69AC00FF726E /* ConditionalBootcamp.swift */,
 				68B1904C28ED756A00FF726E /* TernaryBootcamp.swift */,
 				68B1904E28EDB73700FF726E /* AnimationBootcamp.swift */,
+				68B1905028EE504200FF726E /* AnimationTimingBootcamp.swift */,
+				68B1905228EE600D00FF726E /* TransitionBootcamp.swift */,
+				68B1905428EE658000FF726E /* SheetsBootcamp.swift */,
+				68B1905628EE6DD800FF726E /* PopoverBootcamp.swift */,
+				68B1905828EE909100FF726E /* NavigationViewBootcamp.swift */,
+				68B1905A28EEA10700FF726E /* ListBootcamp.swift */,
 				6853D62F28EB1423002D9631 /* Assets.xcassets */,
 				6853D63128EB1423002D9631 /* Preview Content */,
 			);
@@ -209,6 +227,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68B1905528EE658000FF726E /* SheetsBootcamp.swift in Sources */,
 				68B1904328ED4B9C00FF726E /* StateBootcamp.swift in Sources */,
 				6853D64828EC12D6002D9631 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				68B1904728ED56B400FF726E /* ExtractSubviewBootcamp.swift in Sources */,
@@ -222,18 +241,23 @@
 				68B1904D28ED756A00FF726E /* TernaryBootcamp.swift in Sources */,
 				6853D65A28ED2B5B002D9631 /* ButtonsBootcamp.swift in Sources */,
 				6853D65828ED22F1002D9631 /* SafeAreaBootcamp.swift in Sources */,
+				68B1905128EE504200FF726E /* AnimationTimingBootcamp.swift in Sources */,
 				6853D63A28EB17A3002D9631 /* TextBootcamp.swift in Sources */,
 				6853D65228ED0D1C002D9631 /* ForEachBootcamp.swift in Sources */,
 				6853D62C28EB1422002D9631 /* SwiftUIBootcampApp.swift in Sources */,
 				6853D64C28EC4A59002D9631 /* PaddingBootcamp.swift in Sources */,
 				6853D64A28EC2AD0002D9631 /* StacksBootcamp.swift in Sources */,
+				68B1905328EE600D00FF726E /* TransitionBootcamp.swift in Sources */,
 				6853D64E28EC4F80002D9631 /* SpacerBootcamp.swift in Sources */,
+				68B1905728EE6DD800FF726E /* PopoverBootcamp.swift in Sources */,
 				68B1904928ED5C5000FF726E /* BindingBootcamp.swift in Sources */,
 				6853D65628ED16E0002D9631 /* GridBootcamp.swift in Sources */,
 				68B1904F28EDB73700FF726E /* AnimationBootcamp.swift in Sources */,
 				6853D64428EBFF4C002D9631 /* ImageBootcamp.swift in Sources */,
+				68B1905928EE909100FF726E /* NavigationViewBootcamp.swift in Sources */,
 				68B1904B28ED69AC00FF726E /* ConditionalBootcamp.swift in Sources */,
 				6853D64228EBFB2C002D9631 /* IconsBootcamp.swift in Sources */,
+				68B1905B28EEA10700FF726E /* ListBootcamp.swift in Sources */,
 				68B1904528ED4E9B00FF726E /* ExtractedFunctionBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

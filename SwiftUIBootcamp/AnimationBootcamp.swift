@@ -29,7 +29,7 @@ struct AnimationBootcamp: View {
 				.frame(
 					width: isAnimated ? 100 : 300,
 					height: isAnimated ? 100 : 300)
-				.rotationEffect(Angle(degrees: isAnimated ? 360 : 0))
+				.rotationEffect(Angle(degrees: isAnimated ? 180 : 0))
 				.offset(y: isAnimated ? 300 : 0)
 //				.animation(Animation.default, value: isAnimated)
 			
