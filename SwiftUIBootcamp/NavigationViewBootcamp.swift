@@ -52,7 +52,7 @@ struct MyOtherScreen: View {
 			Color.green
 				.ignoresSafeArea()
 				.navigationTitle("Green Screen!")
-				.navigationBarBackButtonHidden()
+//				.navigationBarBackButtonHidden()
 			
 			VStack {
 				Button {

@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		684E1C9E28EEC20000A387F4 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 684E1C9D28EEC20000A387F4 /* AlertBootcamp.swift */; };
+		684E1CA028EFB79C00A387F4 /* ConfirmationDialog.swift in Sources */ = {isa = PBXBuildFile; fileRef = 684E1C9F28EFB79C00A387F4 /* ConfirmationDialog.swift */; };
 		6853D62C28EB1422002D9631 /* SwiftUIBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6853D62B28EB1422002D9631 /* SwiftUIBootcampApp.swift */; };
 		6853D62E28EB1422002D9631 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6853D62D28EB1422002D9631 /* ContentView.swift */; };
 		6853D63028EB1423002D9631 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6853D62F28EB1423002D9631 /* Assets.xcassets */; };
@@ -44,6 +46,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		684E1C9D28EEC20000A387F4 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
+		684E1C9F28EFB79C00A387F4 /* ConfirmationDialog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationDialog.swift; sourceTree = "<group>"; };
 		6853D62828EB1422002D9631 /* SwiftUIBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6853D62B28EB1422002D9631 /* SwiftUIBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBootcampApp.swift; sourceTree = "<group>"; };
 		6853D62D28EB1422002D9631 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -143,6 +147,8 @@
 				68B1905628EE6DD800FF726E /* PopoverBootcamp.swift */,
 				68B1905828EE909100FF726E /* NavigationViewBootcamp.swift */,
 				68B1905A28EEA10700FF726E /* ListBootcamp.swift */,
+				684E1C9D28EEC20000A387F4 /* AlertBootcamp.swift */,
+				684E1C9F28EFB79C00A387F4 /* ConfirmationDialog.swift */,
 				6853D62F28EB1423002D9631 /* Assets.xcassets */,
 				6853D63128EB1423002D9631 /* Preview Content */,
 			);
@@ -239,6 +245,7 @@
 				6853D65028ED063C002D9631 /* InitializerBootcamp.swift in Sources */,
 				6853D62E28EB1422002D9631 /* ContentView.swift in Sources */,
 				68B1904D28ED756A00FF726E /* TernaryBootcamp.swift in Sources */,
+				684E1C9E28EEC20000A387F4 /* AlertBootcamp.swift in Sources */,
 				6853D65A28ED2B5B002D9631 /* ButtonsBootcamp.swift in Sources */,
 				6853D65828ED22F1002D9631 /* SafeAreaBootcamp.swift in Sources */,
 				68B1905128EE504200FF726E /* AnimationTimingBootcamp.swift in Sources */,
@@ -250,6 +257,7 @@
 				68B1905328EE600D00FF726E /* TransitionBootcamp.swift in Sources */,
 				6853D64E28EC4F80002D9631 /* SpacerBootcamp.swift in Sources */,
 				68B1905728EE6DD800FF726E /* PopoverBootcamp.swift in Sources */,
+				684E1CA028EFB79C00A387F4 /* ConfirmationDialog.swift in Sources */,
 				68B1904928ED5C5000FF726E /* BindingBootcamp.swift in Sources */,
 				6853D65628ED16E0002D9631 /* GridBootcamp.swift in Sources */,
 				68B1904F28EDB73700FF726E /* AnimationBootcamp.swift in Sources */,
