@@ -30,14 +30,14 @@ struct SheetsBootcamp: View {
 //			}
 			.sheet(isPresented: $showSheet) {
 				// DO NOT ADD CONDITIONAL LOGIC
-				SecondScreen()
+				RandomScreen()
 			}
 
 		}
     }
 }
 
-struct SecondScreen: View {
+struct RandomScreen: View {
 	
 	@Environment(\.dismiss) private var dismiss
 	
